@@ -1,0 +1,13 @@
+#ignoring .vscode folder but we keep some files for debuging
+/.vscode/chrome
+/.vs/
+
+**/build/*
+
+package-lock.json
+
+**/testing/*
+**/.nyc_output/*
+**/node_modules/*
+
+server/out/*
